@@ -1,6 +1,6 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+layout: resume
+title: Sung-Han Lin's Resume
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
